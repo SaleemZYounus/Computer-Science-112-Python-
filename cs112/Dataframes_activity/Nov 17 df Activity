@@ -1,0 +1,2 @@
+open('cereal copy.csv', "r")
+print('hi')
